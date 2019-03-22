@@ -15,8 +15,30 @@ tbody td {
   height: 8.7em;
 }
 
-p:nth-child(1) {
+.gray {
   background-color: #f2f2f2;
+  color: #333;
   border-radius: 8px;
   border: 1px solid #666;
+}
+
+.red {
+  background-color: #f2bcbc;
+  color: #b92828;
+  border-radius: 8px;
+  border: 1px solid #991919;
+}
+
+.green {
+  background-color: #d1e0bf;
+  color: #51603f;
+  border-radius: 8px;
+  border: 1px solid #6b7e54;
+}
+
+.purple {
+  background-color: #d2d6f0;
+  color: #38448e;
+  border-radius: 8px;
+  border: 1px solid #1d38da;
 }
